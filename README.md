@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/6n4rISM.gif"/>
+<img src="https://i.imgur.com/JPL0Qi4.gif"/>
 
 <span style="display:block;text-align:center">
   <a href="https://github.com/juliateles22">
